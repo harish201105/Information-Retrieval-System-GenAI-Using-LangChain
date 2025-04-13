@@ -1,4 +1,4 @@
-# Generative AI - Information Retrieval System Using LangChain and PaLM2
+# Generative AI - Information Retrieval System Using LangChain and Gemini 2.0 flash 
 
 This repository contains an **Information Retrieval System** built using **LangChain** and **Generative AI (GenAI)** technologies. The system is designed to retrieve relevant information from a knowledge base or external documents using state-of-the-art natural language processing techniques. By leveraging LangChain's modular framework and the power of GenAI, this project enables efficient, context-aware information retrieval for a wide range of applications.
 
@@ -57,5 +57,5 @@ open up : http://localhost:8501
 - Python
 - LangChain
 - Streamlit 
-- PaLM2
+- Gemini 
 - FAISS
